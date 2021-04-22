@@ -1,0 +1,11 @@
+PASS	Basic Statistics	togoi_salt_3_R1_fastq
+PASS	Per base sequence quality	togoi_salt_3_R1_fastq
+PASS	Per tile sequence quality	togoi_salt_3_R1_fastq
+PASS	Per sequence quality scores	togoi_salt_3_R1_fastq
+WARN	Per base sequence content	togoi_salt_3_R1_fastq
+FAIL	Per sequence GC content	togoi_salt_3_R1_fastq
+PASS	Per base N content	togoi_salt_3_R1_fastq
+WARN	Sequence Length Distribution	togoi_salt_3_R1_fastq
+FAIL	Sequence Duplication Levels	togoi_salt_3_R1_fastq
+PASS	Overrepresented sequences	togoi_salt_3_R1_fastq
+PASS	Adapter Content	togoi_salt_3_R1_fastq

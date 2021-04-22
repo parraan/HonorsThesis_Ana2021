@@ -1,0 +1,11 @@
+PASS	Basic Statistics	aegypti-decl-4_R1_001_fastq_gz.gz
+PASS	Per base sequence quality	aegypti-decl-4_R1_001_fastq_gz.gz
+PASS	Per tile sequence quality	aegypti-decl-4_R1_001_fastq_gz.gz
+PASS	Per sequence quality scores	aegypti-decl-4_R1_001_fastq_gz.gz
+WARN	Per base sequence content	aegypti-decl-4_R1_001_fastq_gz.gz
+FAIL	Per sequence GC content	aegypti-decl-4_R1_001_fastq_gz.gz
+PASS	Per base N content	aegypti-decl-4_R1_001_fastq_gz.gz
+PASS	Sequence Length Distribution	aegypti-decl-4_R1_001_fastq_gz.gz
+FAIL	Sequence Duplication Levels	aegypti-decl-4_R1_001_fastq_gz.gz
+WARN	Overrepresented sequences	aegypti-decl-4_R1_001_fastq_gz.gz
+PASS	Adapter Content	aegypti-decl-4_R1_001_fastq_gz.gz

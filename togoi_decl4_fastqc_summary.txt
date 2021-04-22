@@ -1,0 +1,11 @@
+PASS	Basic Statistics	togoi_decl_4_R1_fastq
+PASS	Per base sequence quality	togoi_decl_4_R1_fastq
+PASS	Per tile sequence quality	togoi_decl_4_R1_fastq
+PASS	Per sequence quality scores	togoi_decl_4_R1_fastq
+WARN	Per base sequence content	togoi_decl_4_R1_fastq
+WARN	Per sequence GC content	togoi_decl_4_R1_fastq
+PASS	Per base N content	togoi_decl_4_R1_fastq
+WARN	Sequence Length Distribution	togoi_decl_4_R1_fastq
+FAIL	Sequence Duplication Levels	togoi_decl_4_R1_fastq
+PASS	Overrepresented sequences	togoi_decl_4_R1_fastq
+PASS	Adapter Content	togoi_decl_4_R1_fastq
